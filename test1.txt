@@ -1,3 +1,6 @@
+methodB (){
+	return sky;
+
 methodA (){
    return Sun;
 }
