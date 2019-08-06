@@ -1,3 +1,3 @@
-method (){
-
+methodA (){
+   return Sun;
 }
